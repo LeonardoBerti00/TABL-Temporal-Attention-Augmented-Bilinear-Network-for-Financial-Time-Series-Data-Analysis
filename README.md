@@ -3,4 +3,4 @@ In this work I will present the implementation of the models proposed in [Tempor
 
 In particular I've implented B(TABL) and C(TABL) using pytorch.
 
-I reached the same metrics of the original paper.
+I reached the same results of the original paper.
