@@ -3,7 +3,7 @@ In this work I will present the implementation of the models proposed in [Tempor
 
 In particular I've implented B(TABL) and C(TABL) using pytorch.
 
-In every notebook is proposed all the machine learning pipeline, starting from the loading of the dataset, passing from the labeling method, creation of the datasets and dataloaders, ending with the train, validation and test.
+In the notebook is proposed all the machine learning pipeline, starting from the loading of the dataset, passing from the labeling method, creation of the datasets and dataloaders, ending with the train, validation and test.
 
 I reached the same results of the original paper.
 
