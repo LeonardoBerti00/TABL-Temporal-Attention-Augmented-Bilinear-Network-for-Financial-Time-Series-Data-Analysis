@@ -3,7 +3,7 @@ In this repository you can find the implementation of the models proposed in [Te
 
 In particular I've implented B(TABL) and C(TABL) using pytorch.
 
-In the notebook is proposed all the machine learning pipeline, starting from the loading of the dataset, passing from the labeling method, creation of the datasets and dataloaders, ending with the train, validation and test.
+In the notebook is presented a comprehensive machine learning pipeline that encompasses loading the dataset, applying labeling methods, creating datasets and dataloaders, and ultimately, executing the training, validation, and testing processes.
 
 I reached the same results of the original paper.
 
